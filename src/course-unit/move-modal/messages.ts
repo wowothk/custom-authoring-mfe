@@ -18,7 +18,7 @@ const messages = defineMessages({
   },
   moveModalBreadcrumbsBaseCategory: {
     id: 'course-authoring.course-unit.xblock.move.modal.breadcrumbs.core.category.text',
-    defaultMessage: 'Course Outline',
+    defaultMessage: 'Outline Pembelajaran',
     description: 'Text for the core breadcrumbs item in move modal of an XBlock',
   },
   moveModalBreadcrumbsSections: {

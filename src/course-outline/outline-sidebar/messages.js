@@ -3,7 +3,7 @@ import { defineMessages } from '@edx/frontend-platform/i18n';
 const messages = defineMessages({
   section_1_title: {
     id: 'course-authoring.course-outline.sidebar.section-1.title',
-    defaultMessage: 'Creating your course organization',
+    defaultMessage: 'Creating your course organization - Test lagi',
   },
   section_1_descriptions_1: {
     id: 'course-authoring.course-outline.sidebar.section-1.descriptions-1',

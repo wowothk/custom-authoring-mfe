@@ -27,7 +27,7 @@ const messages = defineMessages({
   },
   highlightEmailsTitle: {
     id: 'course-authoring.course-outline.status-bar.highlight-emails',
-    defaultMessage: 'Course highlight emails',
+    defaultMessage: 'Course highlight emails - another test',
   },
   highlightEmailsButton: {
     id: 'course-authoring.course-outline.status-bar.highlight-emails.button',
